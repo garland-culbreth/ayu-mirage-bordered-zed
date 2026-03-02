@@ -3,5 +3,5 @@ name = "Ayu Mirage Bordered"
 version = "0.1.0"
 schema_version = 1
 authors = ["Garland Culbreth <garland.culbreth@pm.me>"]
-description = "Bordered variant of the Ayu Mirage theme for Zed "
+description = "Bordered variant of the Ayu Mirage theme for Zed"
 repository = "https://github.com/garland-culbreth/ayu-mirage-bordered-zed"
